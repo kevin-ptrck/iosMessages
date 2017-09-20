@@ -13,4 +13,10 @@ Provide styles similar to IOS messages
 	<li>Add class of "<code>.to</code>" or "<code>.from</code>" to each div.  See example below.</li>
 </ul>
 
-<code><div class="messages-wrapper"><div class="message from">This is my second text message on ios7</div><div class="message from">This is my third text message on ios7</div><div class="message to">This is my fifth text message on ios7</div></div></code>
+<code>
+	<div class="messages-wrapper">
+		<div class="message from">This is my second text message on ios7</div>
+		<div class="message from">This is my third text message on ios7</div>
+		<div class="message to">This is my fifth text message on ios7</div>
+	</div>
+</code>
