@@ -9,8 +9,8 @@ Provide styles similar to IOS messages
 
 <ul>
 	<li>Wrap you messages in a class of "<code>.messages-wrapper</code>"</li>
-	<li>Add class "<code>message</code>" to all div's within the messages-wrapper class </li>
-	<li>Add class of "<code>to</code>" or "<code>from</code>" to each div.  See example below.</li>
+	<li>Add class "<code>.message</code>" to all div's within the messages-wrapper class </li>
+	<li>Add class of "<code>.to</code>" or "<code>.from</code>" to each div.  See example below.</li>
 </ul>
 
 <code>
